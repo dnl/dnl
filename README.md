@@ -6,7 +6,7 @@
 ## Languages
 - Python
 - Go
-- Javascript/Typescript
+- Javascript
 - HTML5
 - CSS3
 - SQL
@@ -15,8 +15,12 @@
 - Mainly web development
 - I make little tools when I'm bored too
 
-## Learning
-- Trying to improve my knowledge of computer science
-- Vue.js
+## I often use these stacks
+- [Sveltekit](https://svelte.dev)
+- [Flask](https://flask.palletsprojects.com/en/2.3.x/)
+- [Express](https://expressjs.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1114913738366144553)](https://discord.com/users/1114913738366144553)
